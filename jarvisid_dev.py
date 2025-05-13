@@ -48,7 +48,7 @@ from shutil import get_terminal_size
 from datetime import datetime
 
 # Konfigurasi API key
-API_KEY = "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"
+API_KEY = "YOUR_GROQ_API_KEY_HERE"
 
 # Inisialisasi console dan client
 console = Console()
